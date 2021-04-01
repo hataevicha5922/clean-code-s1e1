@@ -120,10 +120,10 @@ h3,
 .task {
     width: 56%;
     display: inline-block;
-    flex-grow: 1
+    flex-grow: 1;
 }
 .text {
-    width: 226px
+    width: 226px;
 }
 .delete:hover {
     color: #CF2323;
@@ -139,18 +139,18 @@ h3,
 
 /* Completed */
 .completed-label {
-    text-decoration: line-through
+    text-decoration: line-through;
     color: #888;
 }
 
 /* Edit Task */
 .hiden {
-    display: none
+    display: none;
 }
 
 .fix-task {
     display: inline-block;
-    width: 224px
+    width: 224px;
 }
 li {
     overflow: hidden;
